@@ -1,0 +1,20 @@
+Packages we need
+
+(1)DART-SASS .. 
+    helps us compile sass to css..  www.npmjs.packages..get dart-sass for javascript..paste npm install command to install 
+(2)BOOTSTRAP 5
+    got to bootstrap.com copy npm install bootstrap
+(3)FONTAWSOME..
+    helps with icons
+    go to fontawsome.com 
+    ..click start for free..then scroll down to NPM click and then scrool down on that page to free version
+(4)AUTOPREFIXER..
+    saves the monotony of adding perfixes
+    go to NPM.com search for autoprefixer..
+    paste install packages in visual studio code
+
+
+    **** Source Maps ****
+  Source maps are riles that tell Browsers that use css how that css corresponds to the Sass files from which it was generated
+  they make it possible to see and even edit your Sass files in Browsers. Every sass files created generates a source map inside
+  the folder where we keep the compiled css 
